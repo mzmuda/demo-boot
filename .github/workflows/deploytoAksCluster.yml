@@ -6,6 +6,8 @@ jobs:
     
     - uses: actions/checkout@master
     
+    - uses: actions/setup-java@v1
+
     - name: Build with Maven
       run: mvn -B package --file pom.xml
     

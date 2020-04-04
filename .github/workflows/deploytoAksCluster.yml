@@ -6,6 +6,9 @@ jobs:
     
     - uses: actions/checkout@master
     
+    - name: Build with Maven
+      run: mvn -B package --file pom.xml
+    
     - uses: azure/login@v1
       with:
         creds: ${{ secrets.AZURE_CREDENTIALS }}

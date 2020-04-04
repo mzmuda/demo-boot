@@ -1,0 +1,79 @@
+<business-transactions>
+    <time-stamp>1584826469781</time-stamp>
+    <servlet-entry-points enabled="false">
+        <custom/>
+        <automatic-transaction-discovery enabled="false" resolution="first-entry-point">
+            <excludes/>
+            <naming-scheme type="uri">
+                <property name="uri-length" value="first-n-segments"/>
+                <property name="segment-length" value="2"/>
+            </naming-scheme>
+        </automatic-transaction-discovery>
+    </servlet-entry-points>
+    <binary-remoting-entry-points enabled="true">
+        <custom/>
+        <automatic-transaction-discovery enabled="true" resolution="first-entry-point">
+            <excludes/>
+            <naming-scheme type="simple-class-name-and-method-name"/>
+        </automatic-transaction-discovery>
+    </binary-remoting-entry-points>
+    <spring-bean-entry-points enabled="true">
+        <custom/>
+        <automatic-transaction-discovery enabled="true" resolution="first-entry-point">
+            <excludes/>
+            <naming-scheme type="bean-id-and-method-name"/>
+        </automatic-transaction-discovery>
+    </spring-bean-entry-points>
+    <jms-entry-points enabled="false">
+        <custom/>
+        <automatic-transaction-discovery enabled="false" resolution="first-entry-point">
+            <excludes/>
+            <naming-scheme type="destination-name"/>
+        </automatic-transaction-discovery>
+    </jms-entry-points>
+    <pojo-entry-points enabled="true">
+        <custom>
+            <transaction id="0" name="BookService">
+                <pojo-rule>
+                    <enabled>true</enabled>
+                    <priority>10</priority>
+                    <excluded>false</excluded>
+                    <background>false</background>
+                    <match-class type="matches-class">
+                        <name filter-type="CONTAINS" filter-value="RuleService"/>
+                    </match-class>
+                    <match-method>
+                        <name filter-type="CONTAINS" filter-value="test"/>
+                    </match-method>
+                </pojo-rule>
+            </transaction>
+        </custom>
+        <automatic-transaction-discovery enabled="false" resolution="first-entry-point">
+            <excludes/>
+            <naming-scheme type="fully-qualified-class-name"/>
+        </automatic-transaction-discovery>
+    </pojo-entry-points>
+    <web-service-entry-points enabled="false">
+        <custom/>
+        <automatic-transaction-discovery enabled="false" resolution="first-entry-point">
+            <excludes/>
+            <naming-scheme type="service-name-and-operation-name"/>
+        </automatic-transaction-discovery>
+    </web-service-entry-points>
+    <struts-action-entry-points enabled="false">
+        <custom/>
+        <automatic-transaction-discovery enabled="false" resolution="first-entry-point">
+            <excludes/>
+            <naming-scheme type="action-name-method-name"/>
+        </automatic-transaction-discovery>
+    </struts-action-entry-points>
+    <ejb-entry-points enabled="false">
+        <custom/>
+        <automatic-transaction-discovery enabled="false" resolution="first-entry-point">
+            <excludes/>
+            <naming-scheme type="ejb-name-and-method-name"/>
+        </automatic-transaction-discovery>
+    </ejb-entry-points>
+    <connection-identifier controllerGUID="1583729340"
+        controllerHost="wharf202003210606375.saas.appdynamics.com" controllerPort="443"/>
+</business-transactions>

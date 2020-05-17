@@ -1,3 +1,0 @@
-1584820381953
-org.apache.commons.logging
-org.apache.commons.logging.impl

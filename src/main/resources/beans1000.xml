@@ -1,0 +1,3006 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+   http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+    <bean id="BEAN_ID_0" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_0"/>
+    </bean>
+    <bean id="BEAN_ID_1" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_1"/>
+    </bean>
+    <bean id="BEAN_ID_2" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_2"/>
+    </bean>
+    <bean id="BEAN_ID_3" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_3"/>
+    </bean>
+    <bean id="BEAN_ID_4" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_4"/>
+    </bean>
+    <bean id="BEAN_ID_5" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_5"/>
+    </bean>
+    <bean id="BEAN_ID_6" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_6"/>
+    </bean>
+    <bean id="BEAN_ID_7" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_7"/>
+    </bean>
+    <bean id="BEAN_ID_8" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_8"/>
+    </bean>
+    <bean id="BEAN_ID_9" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_9"/>
+    </bean>
+    <bean id="BEAN_ID_10" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_10"/>
+    </bean>
+    <bean id="BEAN_ID_11" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_11"/>
+    </bean>
+    <bean id="BEAN_ID_12" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_12"/>
+    </bean>
+    <bean id="BEAN_ID_13" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_13"/>
+    </bean>
+    <bean id="BEAN_ID_14" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_14"/>
+    </bean>
+    <bean id="BEAN_ID_15" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_15"/>
+    </bean>
+    <bean id="BEAN_ID_16" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_16"/>
+    </bean>
+    <bean id="BEAN_ID_17" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_17"/>
+    </bean>
+    <bean id="BEAN_ID_18" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_18"/>
+    </bean>
+    <bean id="BEAN_ID_19" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_19"/>
+    </bean>
+    <bean id="BEAN_ID_20" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_20"/>
+    </bean>
+    <bean id="BEAN_ID_21" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_21"/>
+    </bean>
+    <bean id="BEAN_ID_22" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_22"/>
+    </bean>
+    <bean id="BEAN_ID_23" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_23"/>
+    </bean>
+    <bean id="BEAN_ID_24" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_24"/>
+    </bean>
+    <bean id="BEAN_ID_25" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_25"/>
+    </bean>
+    <bean id="BEAN_ID_26" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_26"/>
+    </bean>
+    <bean id="BEAN_ID_27" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_27"/>
+    </bean>
+    <bean id="BEAN_ID_28" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_28"/>
+    </bean>
+    <bean id="BEAN_ID_29" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_29"/>
+    </bean>
+    <bean id="BEAN_ID_30" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_30"/>
+    </bean>
+    <bean id="BEAN_ID_31" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_31"/>
+    </bean>
+    <bean id="BEAN_ID_32" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_32"/>
+    </bean>
+    <bean id="BEAN_ID_33" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_33"/>
+    </bean>
+    <bean id="BEAN_ID_34" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_34"/>
+    </bean>
+    <bean id="BEAN_ID_35" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_35"/>
+    </bean>
+    <bean id="BEAN_ID_36" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_36"/>
+    </bean>
+    <bean id="BEAN_ID_37" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_37"/>
+    </bean>
+    <bean id="BEAN_ID_38" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_38"/>
+    </bean>
+    <bean id="BEAN_ID_39" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_39"/>
+    </bean>
+    <bean id="BEAN_ID_40" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_40"/>
+    </bean>
+    <bean id="BEAN_ID_41" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_41"/>
+    </bean>
+    <bean id="BEAN_ID_42" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_42"/>
+    </bean>
+    <bean id="BEAN_ID_43" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_43"/>
+    </bean>
+    <bean id="BEAN_ID_44" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_44"/>
+    </bean>
+    <bean id="BEAN_ID_45" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_45"/>
+    </bean>
+    <bean id="BEAN_ID_46" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_46"/>
+    </bean>
+    <bean id="BEAN_ID_47" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_47"/>
+    </bean>
+    <bean id="BEAN_ID_48" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_48"/>
+    </bean>
+    <bean id="BEAN_ID_49" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_49"/>
+    </bean>
+    <bean id="BEAN_ID_50" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_50"/>
+    </bean>
+    <bean id="BEAN_ID_51" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_51"/>
+    </bean>
+    <bean id="BEAN_ID_52" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_52"/>
+    </bean>
+    <bean id="BEAN_ID_53" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_53"/>
+    </bean>
+    <bean id="BEAN_ID_54" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_54"/>
+    </bean>
+    <bean id="BEAN_ID_55" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_55"/>
+    </bean>
+    <bean id="BEAN_ID_56" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_56"/>
+    </bean>
+    <bean id="BEAN_ID_57" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_57"/>
+    </bean>
+    <bean id="BEAN_ID_58" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_58"/>
+    </bean>
+    <bean id="BEAN_ID_59" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_59"/>
+    </bean>
+    <bean id="BEAN_ID_60" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_60"/>
+    </bean>
+    <bean id="BEAN_ID_61" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_61"/>
+    </bean>
+    <bean id="BEAN_ID_62" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_62"/>
+    </bean>
+    <bean id="BEAN_ID_63" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_63"/>
+    </bean>
+    <bean id="BEAN_ID_64" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_64"/>
+    </bean>
+    <bean id="BEAN_ID_65" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_65"/>
+    </bean>
+    <bean id="BEAN_ID_66" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_66"/>
+    </bean>
+    <bean id="BEAN_ID_67" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_67"/>
+    </bean>
+    <bean id="BEAN_ID_68" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_68"/>
+    </bean>
+    <bean id="BEAN_ID_69" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_69"/>
+    </bean>
+    <bean id="BEAN_ID_70" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_70"/>
+    </bean>
+    <bean id="BEAN_ID_71" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_71"/>
+    </bean>
+    <bean id="BEAN_ID_72" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_72"/>
+    </bean>
+    <bean id="BEAN_ID_73" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_73"/>
+    </bean>
+    <bean id="BEAN_ID_74" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_74"/>
+    </bean>
+    <bean id="BEAN_ID_75" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_75"/>
+    </bean>
+    <bean id="BEAN_ID_76" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_76"/>
+    </bean>
+    <bean id="BEAN_ID_77" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_77"/>
+    </bean>
+    <bean id="BEAN_ID_78" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_78"/>
+    </bean>
+    <bean id="BEAN_ID_79" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_79"/>
+    </bean>
+    <bean id="BEAN_ID_80" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_80"/>
+    </bean>
+    <bean id="BEAN_ID_81" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_81"/>
+    </bean>
+    <bean id="BEAN_ID_82" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_82"/>
+    </bean>
+    <bean id="BEAN_ID_83" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_83"/>
+    </bean>
+    <bean id="BEAN_ID_84" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_84"/>
+    </bean>
+    <bean id="BEAN_ID_85" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_85"/>
+    </bean>
+    <bean id="BEAN_ID_86" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_86"/>
+    </bean>
+    <bean id="BEAN_ID_87" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_87"/>
+    </bean>
+    <bean id="BEAN_ID_88" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_88"/>
+    </bean>
+    <bean id="BEAN_ID_89" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_89"/>
+    </bean>
+    <bean id="BEAN_ID_90" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_90"/>
+    </bean>
+    <bean id="BEAN_ID_91" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_91"/>
+    </bean>
+    <bean id="BEAN_ID_92" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_92"/>
+    </bean>
+    <bean id="BEAN_ID_93" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_93"/>
+    </bean>
+    <bean id="BEAN_ID_94" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_94"/>
+    </bean>
+    <bean id="BEAN_ID_95" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_95"/>
+    </bean>
+    <bean id="BEAN_ID_96" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_96"/>
+    </bean>
+    <bean id="BEAN_ID_97" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_97"/>
+    </bean>
+    <bean id="BEAN_ID_98" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_98"/>
+    </bean>
+    <bean id="BEAN_ID_99" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_99"/>
+    </bean>
+    <bean id="BEAN_ID_100" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_100"/>
+    </bean>
+    <bean id="BEAN_ID_101" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_101"/>
+    </bean>
+    <bean id="BEAN_ID_102" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_102"/>
+    </bean>
+    <bean id="BEAN_ID_103" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_103"/>
+    </bean>
+    <bean id="BEAN_ID_104" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_104"/>
+    </bean>
+    <bean id="BEAN_ID_105" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_105"/>
+    </bean>
+    <bean id="BEAN_ID_106" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_106"/>
+    </bean>
+    <bean id="BEAN_ID_107" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_107"/>
+    </bean>
+    <bean id="BEAN_ID_108" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_108"/>
+    </bean>
+    <bean id="BEAN_ID_109" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_109"/>
+    </bean>
+    <bean id="BEAN_ID_110" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_110"/>
+    </bean>
+    <bean id="BEAN_ID_111" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_111"/>
+    </bean>
+    <bean id="BEAN_ID_112" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_112"/>
+    </bean>
+    <bean id="BEAN_ID_113" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_113"/>
+    </bean>
+    <bean id="BEAN_ID_114" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_114"/>
+    </bean>
+    <bean id="BEAN_ID_115" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_115"/>
+    </bean>
+    <bean id="BEAN_ID_116" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_116"/>
+    </bean>
+    <bean id="BEAN_ID_117" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_117"/>
+    </bean>
+    <bean id="BEAN_ID_118" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_118"/>
+    </bean>
+    <bean id="BEAN_ID_119" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_119"/>
+    </bean>
+    <bean id="BEAN_ID_120" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_120"/>
+    </bean>
+    <bean id="BEAN_ID_121" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_121"/>
+    </bean>
+    <bean id="BEAN_ID_122" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_122"/>
+    </bean>
+    <bean id="BEAN_ID_123" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_123"/>
+    </bean>
+    <bean id="BEAN_ID_124" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_124"/>
+    </bean>
+    <bean id="BEAN_ID_125" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_125"/>
+    </bean>
+    <bean id="BEAN_ID_126" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_126"/>
+    </bean>
+    <bean id="BEAN_ID_127" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_127"/>
+    </bean>
+    <bean id="BEAN_ID_128" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_128"/>
+    </bean>
+    <bean id="BEAN_ID_129" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_129"/>
+    </bean>
+    <bean id="BEAN_ID_130" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_130"/>
+    </bean>
+    <bean id="BEAN_ID_131" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_131"/>
+    </bean>
+    <bean id="BEAN_ID_132" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_132"/>
+    </bean>
+    <bean id="BEAN_ID_133" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_133"/>
+    </bean>
+    <bean id="BEAN_ID_134" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_134"/>
+    </bean>
+    <bean id="BEAN_ID_135" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_135"/>
+    </bean>
+    <bean id="BEAN_ID_136" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_136"/>
+    </bean>
+    <bean id="BEAN_ID_137" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_137"/>
+    </bean>
+    <bean id="BEAN_ID_138" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_138"/>
+    </bean>
+    <bean id="BEAN_ID_139" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_139"/>
+    </bean>
+    <bean id="BEAN_ID_140" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_140"/>
+    </bean>
+    <bean id="BEAN_ID_141" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_141"/>
+    </bean>
+    <bean id="BEAN_ID_142" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_142"/>
+    </bean>
+    <bean id="BEAN_ID_143" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_143"/>
+    </bean>
+    <bean id="BEAN_ID_144" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_144"/>
+    </bean>
+    <bean id="BEAN_ID_145" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_145"/>
+    </bean>
+    <bean id="BEAN_ID_146" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_146"/>
+    </bean>
+    <bean id="BEAN_ID_147" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_147"/>
+    </bean>
+    <bean id="BEAN_ID_148" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_148"/>
+    </bean>
+    <bean id="BEAN_ID_149" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_149"/>
+    </bean>
+    <bean id="BEAN_ID_150" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_150"/>
+    </bean>
+    <bean id="BEAN_ID_151" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_151"/>
+    </bean>
+    <bean id="BEAN_ID_152" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_152"/>
+    </bean>
+    <bean id="BEAN_ID_153" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_153"/>
+    </bean>
+    <bean id="BEAN_ID_154" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_154"/>
+    </bean>
+    <bean id="BEAN_ID_155" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_155"/>
+    </bean>
+    <bean id="BEAN_ID_156" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_156"/>
+    </bean>
+    <bean id="BEAN_ID_157" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_157"/>
+    </bean>
+    <bean id="BEAN_ID_158" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_158"/>
+    </bean>
+    <bean id="BEAN_ID_159" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_159"/>
+    </bean>
+    <bean id="BEAN_ID_160" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_160"/>
+    </bean>
+    <bean id="BEAN_ID_161" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_161"/>
+    </bean>
+    <bean id="BEAN_ID_162" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_162"/>
+    </bean>
+    <bean id="BEAN_ID_163" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_163"/>
+    </bean>
+    <bean id="BEAN_ID_164" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_164"/>
+    </bean>
+    <bean id="BEAN_ID_165" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_165"/>
+    </bean>
+    <bean id="BEAN_ID_166" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_166"/>
+    </bean>
+    <bean id="BEAN_ID_167" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_167"/>
+    </bean>
+    <bean id="BEAN_ID_168" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_168"/>
+    </bean>
+    <bean id="BEAN_ID_169" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_169"/>
+    </bean>
+    <bean id="BEAN_ID_170" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_170"/>
+    </bean>
+    <bean id="BEAN_ID_171" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_171"/>
+    </bean>
+    <bean id="BEAN_ID_172" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_172"/>
+    </bean>
+    <bean id="BEAN_ID_173" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_173"/>
+    </bean>
+    <bean id="BEAN_ID_174" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_174"/>
+    </bean>
+    <bean id="BEAN_ID_175" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_175"/>
+    </bean>
+    <bean id="BEAN_ID_176" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_176"/>
+    </bean>
+    <bean id="BEAN_ID_177" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_177"/>
+    </bean>
+    <bean id="BEAN_ID_178" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_178"/>
+    </bean>
+    <bean id="BEAN_ID_179" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_179"/>
+    </bean>
+    <bean id="BEAN_ID_180" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_180"/>
+    </bean>
+    <bean id="BEAN_ID_181" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_181"/>
+    </bean>
+    <bean id="BEAN_ID_182" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_182"/>
+    </bean>
+    <bean id="BEAN_ID_183" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_183"/>
+    </bean>
+    <bean id="BEAN_ID_184" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_184"/>
+    </bean>
+    <bean id="BEAN_ID_185" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_185"/>
+    </bean>
+    <bean id="BEAN_ID_186" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_186"/>
+    </bean>
+    <bean id="BEAN_ID_187" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_187"/>
+    </bean>
+    <bean id="BEAN_ID_188" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_188"/>
+    </bean>
+    <bean id="BEAN_ID_189" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_189"/>
+    </bean>
+    <bean id="BEAN_ID_190" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_190"/>
+    </bean>
+    <bean id="BEAN_ID_191" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_191"/>
+    </bean>
+    <bean id="BEAN_ID_192" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_192"/>
+    </bean>
+    <bean id="BEAN_ID_193" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_193"/>
+    </bean>
+    <bean id="BEAN_ID_194" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_194"/>
+    </bean>
+    <bean id="BEAN_ID_195" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_195"/>
+    </bean>
+    <bean id="BEAN_ID_196" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_196"/>
+    </bean>
+    <bean id="BEAN_ID_197" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_197"/>
+    </bean>
+    <bean id="BEAN_ID_198" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_198"/>
+    </bean>
+    <bean id="BEAN_ID_199" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_199"/>
+    </bean>
+    <bean id="BEAN_ID_200" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_200"/>
+    </bean>
+    <bean id="BEAN_ID_201" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_201"/>
+    </bean>
+    <bean id="BEAN_ID_202" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_202"/>
+    </bean>
+    <bean id="BEAN_ID_203" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_203"/>
+    </bean>
+    <bean id="BEAN_ID_204" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_204"/>
+    </bean>
+    <bean id="BEAN_ID_205" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_205"/>
+    </bean>
+    <bean id="BEAN_ID_206" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_206"/>
+    </bean>
+    <bean id="BEAN_ID_207" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_207"/>
+    </bean>
+    <bean id="BEAN_ID_208" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_208"/>
+    </bean>
+    <bean id="BEAN_ID_209" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_209"/>
+    </bean>
+    <bean id="BEAN_ID_210" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_210"/>
+    </bean>
+    <bean id="BEAN_ID_211" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_211"/>
+    </bean>
+    <bean id="BEAN_ID_212" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_212"/>
+    </bean>
+    <bean id="BEAN_ID_213" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_213"/>
+    </bean>
+    <bean id="BEAN_ID_214" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_214"/>
+    </bean>
+    <bean id="BEAN_ID_215" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_215"/>
+    </bean>
+    <bean id="BEAN_ID_216" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_216"/>
+    </bean>
+    <bean id="BEAN_ID_217" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_217"/>
+    </bean>
+    <bean id="BEAN_ID_218" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_218"/>
+    </bean>
+    <bean id="BEAN_ID_219" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_219"/>
+    </bean>
+    <bean id="BEAN_ID_220" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_220"/>
+    </bean>
+    <bean id="BEAN_ID_221" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_221"/>
+    </bean>
+    <bean id="BEAN_ID_222" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_222"/>
+    </bean>
+    <bean id="BEAN_ID_223" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_223"/>
+    </bean>
+    <bean id="BEAN_ID_224" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_224"/>
+    </bean>
+    <bean id="BEAN_ID_225" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_225"/>
+    </bean>
+    <bean id="BEAN_ID_226" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_226"/>
+    </bean>
+    <bean id="BEAN_ID_227" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_227"/>
+    </bean>
+    <bean id="BEAN_ID_228" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_228"/>
+    </bean>
+    <bean id="BEAN_ID_229" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_229"/>
+    </bean>
+    <bean id="BEAN_ID_230" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_230"/>
+    </bean>
+    <bean id="BEAN_ID_231" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_231"/>
+    </bean>
+    <bean id="BEAN_ID_232" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_232"/>
+    </bean>
+    <bean id="BEAN_ID_233" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_233"/>
+    </bean>
+    <bean id="BEAN_ID_234" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_234"/>
+    </bean>
+    <bean id="BEAN_ID_235" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_235"/>
+    </bean>
+    <bean id="BEAN_ID_236" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_236"/>
+    </bean>
+    <bean id="BEAN_ID_237" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_237"/>
+    </bean>
+    <bean id="BEAN_ID_238" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_238"/>
+    </bean>
+    <bean id="BEAN_ID_239" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_239"/>
+    </bean>
+    <bean id="BEAN_ID_240" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_240"/>
+    </bean>
+    <bean id="BEAN_ID_241" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_241"/>
+    </bean>
+    <bean id="BEAN_ID_242" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_242"/>
+    </bean>
+    <bean id="BEAN_ID_243" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_243"/>
+    </bean>
+    <bean id="BEAN_ID_244" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_244"/>
+    </bean>
+    <bean id="BEAN_ID_245" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_245"/>
+    </bean>
+    <bean id="BEAN_ID_246" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_246"/>
+    </bean>
+    <bean id="BEAN_ID_247" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_247"/>
+    </bean>
+    <bean id="BEAN_ID_248" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_248"/>
+    </bean>
+    <bean id="BEAN_ID_249" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_249"/>
+    </bean>
+    <bean id="BEAN_ID_250" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_250"/>
+    </bean>
+    <bean id="BEAN_ID_251" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_251"/>
+    </bean>
+    <bean id="BEAN_ID_252" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_252"/>
+    </bean>
+    <bean id="BEAN_ID_253" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_253"/>
+    </bean>
+    <bean id="BEAN_ID_254" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_254"/>
+    </bean>
+    <bean id="BEAN_ID_255" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_255"/>
+    </bean>
+    <bean id="BEAN_ID_256" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_256"/>
+    </bean>
+    <bean id="BEAN_ID_257" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_257"/>
+    </bean>
+    <bean id="BEAN_ID_258" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_258"/>
+    </bean>
+    <bean id="BEAN_ID_259" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_259"/>
+    </bean>
+    <bean id="BEAN_ID_260" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_260"/>
+    </bean>
+    <bean id="BEAN_ID_261" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_261"/>
+    </bean>
+    <bean id="BEAN_ID_262" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_262"/>
+    </bean>
+    <bean id="BEAN_ID_263" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_263"/>
+    </bean>
+    <bean id="BEAN_ID_264" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_264"/>
+    </bean>
+    <bean id="BEAN_ID_265" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_265"/>
+    </bean>
+    <bean id="BEAN_ID_266" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_266"/>
+    </bean>
+    <bean id="BEAN_ID_267" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_267"/>
+    </bean>
+    <bean id="BEAN_ID_268" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_268"/>
+    </bean>
+    <bean id="BEAN_ID_269" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_269"/>
+    </bean>
+    <bean id="BEAN_ID_270" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_270"/>
+    </bean>
+    <bean id="BEAN_ID_271" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_271"/>
+    </bean>
+    <bean id="BEAN_ID_272" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_272"/>
+    </bean>
+    <bean id="BEAN_ID_273" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_273"/>
+    </bean>
+    <bean id="BEAN_ID_274" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_274"/>
+    </bean>
+    <bean id="BEAN_ID_275" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_275"/>
+    </bean>
+    <bean id="BEAN_ID_276" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_276"/>
+    </bean>
+    <bean id="BEAN_ID_277" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_277"/>
+    </bean>
+    <bean id="BEAN_ID_278" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_278"/>
+    </bean>
+    <bean id="BEAN_ID_279" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_279"/>
+    </bean>
+    <bean id="BEAN_ID_280" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_280"/>
+    </bean>
+    <bean id="BEAN_ID_281" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_281"/>
+    </bean>
+    <bean id="BEAN_ID_282" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_282"/>
+    </bean>
+    <bean id="BEAN_ID_283" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_283"/>
+    </bean>
+    <bean id="BEAN_ID_284" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_284"/>
+    </bean>
+    <bean id="BEAN_ID_285" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_285"/>
+    </bean>
+    <bean id="BEAN_ID_286" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_286"/>
+    </bean>
+    <bean id="BEAN_ID_287" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_287"/>
+    </bean>
+    <bean id="BEAN_ID_288" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_288"/>
+    </bean>
+    <bean id="BEAN_ID_289" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_289"/>
+    </bean>
+    <bean id="BEAN_ID_290" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_290"/>
+    </bean>
+    <bean id="BEAN_ID_291" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_291"/>
+    </bean>
+    <bean id="BEAN_ID_292" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_292"/>
+    </bean>
+    <bean id="BEAN_ID_293" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_293"/>
+    </bean>
+    <bean id="BEAN_ID_294" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_294"/>
+    </bean>
+    <bean id="BEAN_ID_295" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_295"/>
+    </bean>
+    <bean id="BEAN_ID_296" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_296"/>
+    </bean>
+    <bean id="BEAN_ID_297" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_297"/>
+    </bean>
+    <bean id="BEAN_ID_298" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_298"/>
+    </bean>
+    <bean id="BEAN_ID_299" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_299"/>
+    </bean>
+    <bean id="BEAN_ID_300" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_300"/>
+    </bean>
+    <bean id="BEAN_ID_301" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_301"/>
+    </bean>
+    <bean id="BEAN_ID_302" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_302"/>
+    </bean>
+    <bean id="BEAN_ID_303" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_303"/>
+    </bean>
+    <bean id="BEAN_ID_304" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_304"/>
+    </bean>
+    <bean id="BEAN_ID_305" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_305"/>
+    </bean>
+    <bean id="BEAN_ID_306" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_306"/>
+    </bean>
+    <bean id="BEAN_ID_307" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_307"/>
+    </bean>
+    <bean id="BEAN_ID_308" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_308"/>
+    </bean>
+    <bean id="BEAN_ID_309" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_309"/>
+    </bean>
+    <bean id="BEAN_ID_310" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_310"/>
+    </bean>
+    <bean id="BEAN_ID_311" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_311"/>
+    </bean>
+    <bean id="BEAN_ID_312" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_312"/>
+    </bean>
+    <bean id="BEAN_ID_313" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_313"/>
+    </bean>
+    <bean id="BEAN_ID_314" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_314"/>
+    </bean>
+    <bean id="BEAN_ID_315" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_315"/>
+    </bean>
+    <bean id="BEAN_ID_316" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_316"/>
+    </bean>
+    <bean id="BEAN_ID_317" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_317"/>
+    </bean>
+    <bean id="BEAN_ID_318" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_318"/>
+    </bean>
+    <bean id="BEAN_ID_319" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_319"/>
+    </bean>
+    <bean id="BEAN_ID_320" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_320"/>
+    </bean>
+    <bean id="BEAN_ID_321" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_321"/>
+    </bean>
+    <bean id="BEAN_ID_322" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_322"/>
+    </bean>
+    <bean id="BEAN_ID_323" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_323"/>
+    </bean>
+    <bean id="BEAN_ID_324" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_324"/>
+    </bean>
+    <bean id="BEAN_ID_325" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_325"/>
+    </bean>
+    <bean id="BEAN_ID_326" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_326"/>
+    </bean>
+    <bean id="BEAN_ID_327" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_327"/>
+    </bean>
+    <bean id="BEAN_ID_328" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_328"/>
+    </bean>
+    <bean id="BEAN_ID_329" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_329"/>
+    </bean>
+    <bean id="BEAN_ID_330" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_330"/>
+    </bean>
+    <bean id="BEAN_ID_331" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_331"/>
+    </bean>
+    <bean id="BEAN_ID_332" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_332"/>
+    </bean>
+    <bean id="BEAN_ID_333" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_333"/>
+    </bean>
+    <bean id="BEAN_ID_334" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_334"/>
+    </bean>
+    <bean id="BEAN_ID_335" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_335"/>
+    </bean>
+    <bean id="BEAN_ID_336" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_336"/>
+    </bean>
+    <bean id="BEAN_ID_337" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_337"/>
+    </bean>
+    <bean id="BEAN_ID_338" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_338"/>
+    </bean>
+    <bean id="BEAN_ID_339" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_339"/>
+    </bean>
+    <bean id="BEAN_ID_340" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_340"/>
+    </bean>
+    <bean id="BEAN_ID_341" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_341"/>
+    </bean>
+    <bean id="BEAN_ID_342" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_342"/>
+    </bean>
+    <bean id="BEAN_ID_343" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_343"/>
+    </bean>
+    <bean id="BEAN_ID_344" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_344"/>
+    </bean>
+    <bean id="BEAN_ID_345" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_345"/>
+    </bean>
+    <bean id="BEAN_ID_346" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_346"/>
+    </bean>
+    <bean id="BEAN_ID_347" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_347"/>
+    </bean>
+    <bean id="BEAN_ID_348" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_348"/>
+    </bean>
+    <bean id="BEAN_ID_349" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_349"/>
+    </bean>
+    <bean id="BEAN_ID_350" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_350"/>
+    </bean>
+    <bean id="BEAN_ID_351" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_351"/>
+    </bean>
+    <bean id="BEAN_ID_352" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_352"/>
+    </bean>
+    <bean id="BEAN_ID_353" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_353"/>
+    </bean>
+    <bean id="BEAN_ID_354" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_354"/>
+    </bean>
+    <bean id="BEAN_ID_355" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_355"/>
+    </bean>
+    <bean id="BEAN_ID_356" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_356"/>
+    </bean>
+    <bean id="BEAN_ID_357" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_357"/>
+    </bean>
+    <bean id="BEAN_ID_358" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_358"/>
+    </bean>
+    <bean id="BEAN_ID_359" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_359"/>
+    </bean>
+    <bean id="BEAN_ID_360" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_360"/>
+    </bean>
+    <bean id="BEAN_ID_361" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_361"/>
+    </bean>
+    <bean id="BEAN_ID_362" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_362"/>
+    </bean>
+    <bean id="BEAN_ID_363" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_363"/>
+    </bean>
+    <bean id="BEAN_ID_364" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_364"/>
+    </bean>
+    <bean id="BEAN_ID_365" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_365"/>
+    </bean>
+    <bean id="BEAN_ID_366" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_366"/>
+    </bean>
+    <bean id="BEAN_ID_367" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_367"/>
+    </bean>
+    <bean id="BEAN_ID_368" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_368"/>
+    </bean>
+    <bean id="BEAN_ID_369" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_369"/>
+    </bean>
+    <bean id="BEAN_ID_370" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_370"/>
+    </bean>
+    <bean id="BEAN_ID_371" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_371"/>
+    </bean>
+    <bean id="BEAN_ID_372" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_372"/>
+    </bean>
+    <bean id="BEAN_ID_373" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_373"/>
+    </bean>
+    <bean id="BEAN_ID_374" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_374"/>
+    </bean>
+    <bean id="BEAN_ID_375" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_375"/>
+    </bean>
+    <bean id="BEAN_ID_376" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_376"/>
+    </bean>
+    <bean id="BEAN_ID_377" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_377"/>
+    </bean>
+    <bean id="BEAN_ID_378" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_378"/>
+    </bean>
+    <bean id="BEAN_ID_379" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_379"/>
+    </bean>
+    <bean id="BEAN_ID_380" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_380"/>
+    </bean>
+    <bean id="BEAN_ID_381" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_381"/>
+    </bean>
+    <bean id="BEAN_ID_382" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_382"/>
+    </bean>
+    <bean id="BEAN_ID_383" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_383"/>
+    </bean>
+    <bean id="BEAN_ID_384" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_384"/>
+    </bean>
+    <bean id="BEAN_ID_385" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_385"/>
+    </bean>
+    <bean id="BEAN_ID_386" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_386"/>
+    </bean>
+    <bean id="BEAN_ID_387" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_387"/>
+    </bean>
+    <bean id="BEAN_ID_388" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_388"/>
+    </bean>
+    <bean id="BEAN_ID_389" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_389"/>
+    </bean>
+    <bean id="BEAN_ID_390" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_390"/>
+    </bean>
+    <bean id="BEAN_ID_391" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_391"/>
+    </bean>
+    <bean id="BEAN_ID_392" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_392"/>
+    </bean>
+    <bean id="BEAN_ID_393" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_393"/>
+    </bean>
+    <bean id="BEAN_ID_394" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_394"/>
+    </bean>
+    <bean id="BEAN_ID_395" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_395"/>
+    </bean>
+    <bean id="BEAN_ID_396" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_396"/>
+    </bean>
+    <bean id="BEAN_ID_397" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_397"/>
+    </bean>
+    <bean id="BEAN_ID_398" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_398"/>
+    </bean>
+    <bean id="BEAN_ID_399" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_399"/>
+    </bean>
+    <bean id="BEAN_ID_400" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_400"/>
+    </bean>
+    <bean id="BEAN_ID_401" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_401"/>
+    </bean>
+    <bean id="BEAN_ID_402" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_402"/>
+    </bean>
+    <bean id="BEAN_ID_403" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_403"/>
+    </bean>
+    <bean id="BEAN_ID_404" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_404"/>
+    </bean>
+    <bean id="BEAN_ID_405" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_405"/>
+    </bean>
+    <bean id="BEAN_ID_406" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_406"/>
+    </bean>
+    <bean id="BEAN_ID_407" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_407"/>
+    </bean>
+    <bean id="BEAN_ID_408" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_408"/>
+    </bean>
+    <bean id="BEAN_ID_409" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_409"/>
+    </bean>
+    <bean id="BEAN_ID_410" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_410"/>
+    </bean>
+    <bean id="BEAN_ID_411" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_411"/>
+    </bean>
+    <bean id="BEAN_ID_412" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_412"/>
+    </bean>
+    <bean id="BEAN_ID_413" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_413"/>
+    </bean>
+    <bean id="BEAN_ID_414" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_414"/>
+    </bean>
+    <bean id="BEAN_ID_415" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_415"/>
+    </bean>
+    <bean id="BEAN_ID_416" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_416"/>
+    </bean>
+    <bean id="BEAN_ID_417" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_417"/>
+    </bean>
+    <bean id="BEAN_ID_418" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_418"/>
+    </bean>
+    <bean id="BEAN_ID_419" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_419"/>
+    </bean>
+    <bean id="BEAN_ID_420" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_420"/>
+    </bean>
+    <bean id="BEAN_ID_421" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_421"/>
+    </bean>
+    <bean id="BEAN_ID_422" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_422"/>
+    </bean>
+    <bean id="BEAN_ID_423" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_423"/>
+    </bean>
+    <bean id="BEAN_ID_424" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_424"/>
+    </bean>
+    <bean id="BEAN_ID_425" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_425"/>
+    </bean>
+    <bean id="BEAN_ID_426" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_426"/>
+    </bean>
+    <bean id="BEAN_ID_427" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_427"/>
+    </bean>
+    <bean id="BEAN_ID_428" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_428"/>
+    </bean>
+    <bean id="BEAN_ID_429" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_429"/>
+    </bean>
+    <bean id="BEAN_ID_430" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_430"/>
+    </bean>
+    <bean id="BEAN_ID_431" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_431"/>
+    </bean>
+    <bean id="BEAN_ID_432" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_432"/>
+    </bean>
+    <bean id="BEAN_ID_433" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_433"/>
+    </bean>
+    <bean id="BEAN_ID_434" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_434"/>
+    </bean>
+    <bean id="BEAN_ID_435" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_435"/>
+    </bean>
+    <bean id="BEAN_ID_436" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_436"/>
+    </bean>
+    <bean id="BEAN_ID_437" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_437"/>
+    </bean>
+    <bean id="BEAN_ID_438" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_438"/>
+    </bean>
+    <bean id="BEAN_ID_439" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_439"/>
+    </bean>
+    <bean id="BEAN_ID_440" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_440"/>
+    </bean>
+    <bean id="BEAN_ID_441" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_441"/>
+    </bean>
+    <bean id="BEAN_ID_442" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_442"/>
+    </bean>
+    <bean id="BEAN_ID_443" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_443"/>
+    </bean>
+    <bean id="BEAN_ID_444" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_444"/>
+    </bean>
+    <bean id="BEAN_ID_445" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_445"/>
+    </bean>
+    <bean id="BEAN_ID_446" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_446"/>
+    </bean>
+    <bean id="BEAN_ID_447" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_447"/>
+    </bean>
+    <bean id="BEAN_ID_448" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_448"/>
+    </bean>
+    <bean id="BEAN_ID_449" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_449"/>
+    </bean>
+    <bean id="BEAN_ID_450" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_450"/>
+    </bean>
+    <bean id="BEAN_ID_451" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_451"/>
+    </bean>
+    <bean id="BEAN_ID_452" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_452"/>
+    </bean>
+    <bean id="BEAN_ID_453" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_453"/>
+    </bean>
+    <bean id="BEAN_ID_454" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_454"/>
+    </bean>
+    <bean id="BEAN_ID_455" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_455"/>
+    </bean>
+    <bean id="BEAN_ID_456" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_456"/>
+    </bean>
+    <bean id="BEAN_ID_457" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_457"/>
+    </bean>
+    <bean id="BEAN_ID_458" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_458"/>
+    </bean>
+    <bean id="BEAN_ID_459" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_459"/>
+    </bean>
+    <bean id="BEAN_ID_460" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_460"/>
+    </bean>
+    <bean id="BEAN_ID_461" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_461"/>
+    </bean>
+    <bean id="BEAN_ID_462" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_462"/>
+    </bean>
+    <bean id="BEAN_ID_463" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_463"/>
+    </bean>
+    <bean id="BEAN_ID_464" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_464"/>
+    </bean>
+    <bean id="BEAN_ID_465" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_465"/>
+    </bean>
+    <bean id="BEAN_ID_466" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_466"/>
+    </bean>
+    <bean id="BEAN_ID_467" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_467"/>
+    </bean>
+    <bean id="BEAN_ID_468" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_468"/>
+    </bean>
+    <bean id="BEAN_ID_469" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_469"/>
+    </bean>
+    <bean id="BEAN_ID_470" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_470"/>
+    </bean>
+    <bean id="BEAN_ID_471" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_471"/>
+    </bean>
+    <bean id="BEAN_ID_472" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_472"/>
+    </bean>
+    <bean id="BEAN_ID_473" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_473"/>
+    </bean>
+    <bean id="BEAN_ID_474" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_474"/>
+    </bean>
+    <bean id="BEAN_ID_475" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_475"/>
+    </bean>
+    <bean id="BEAN_ID_476" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_476"/>
+    </bean>
+    <bean id="BEAN_ID_477" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_477"/>
+    </bean>
+    <bean id="BEAN_ID_478" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_478"/>
+    </bean>
+    <bean id="BEAN_ID_479" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_479"/>
+    </bean>
+    <bean id="BEAN_ID_480" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_480"/>
+    </bean>
+    <bean id="BEAN_ID_481" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_481"/>
+    </bean>
+    <bean id="BEAN_ID_482" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_482"/>
+    </bean>
+    <bean id="BEAN_ID_483" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_483"/>
+    </bean>
+    <bean id="BEAN_ID_484" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_484"/>
+    </bean>
+    <bean id="BEAN_ID_485" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_485"/>
+    </bean>
+    <bean id="BEAN_ID_486" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_486"/>
+    </bean>
+    <bean id="BEAN_ID_487" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_487"/>
+    </bean>
+    <bean id="BEAN_ID_488" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_488"/>
+    </bean>
+    <bean id="BEAN_ID_489" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_489"/>
+    </bean>
+    <bean id="BEAN_ID_490" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_490"/>
+    </bean>
+    <bean id="BEAN_ID_491" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_491"/>
+    </bean>
+    <bean id="BEAN_ID_492" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_492"/>
+    </bean>
+    <bean id="BEAN_ID_493" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_493"/>
+    </bean>
+    <bean id="BEAN_ID_494" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_494"/>
+    </bean>
+    <bean id="BEAN_ID_495" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_495"/>
+    </bean>
+    <bean id="BEAN_ID_496" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_496"/>
+    </bean>
+    <bean id="BEAN_ID_497" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_497"/>
+    </bean>
+    <bean id="BEAN_ID_498" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_498"/>
+    </bean>
+    <bean id="BEAN_ID_499" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_499"/>
+    </bean>
+    <bean id="BEAN_ID_500" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_500"/>
+    </bean>
+    <bean id="BEAN_ID_501" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_501"/>
+    </bean>
+    <bean id="BEAN_ID_502" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_502"/>
+    </bean>
+    <bean id="BEAN_ID_503" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_503"/>
+    </bean>
+    <bean id="BEAN_ID_504" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_504"/>
+    </bean>
+    <bean id="BEAN_ID_505" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_505"/>
+    </bean>
+    <bean id="BEAN_ID_506" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_506"/>
+    </bean>
+    <bean id="BEAN_ID_507" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_507"/>
+    </bean>
+    <bean id="BEAN_ID_508" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_508"/>
+    </bean>
+    <bean id="BEAN_ID_509" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_509"/>
+    </bean>
+    <bean id="BEAN_ID_510" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_510"/>
+    </bean>
+    <bean id="BEAN_ID_511" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_511"/>
+    </bean>
+    <bean id="BEAN_ID_512" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_512"/>
+    </bean>
+    <bean id="BEAN_ID_513" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_513"/>
+    </bean>
+    <bean id="BEAN_ID_514" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_514"/>
+    </bean>
+    <bean id="BEAN_ID_515" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_515"/>
+    </bean>
+    <bean id="BEAN_ID_516" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_516"/>
+    </bean>
+    <bean id="BEAN_ID_517" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_517"/>
+    </bean>
+    <bean id="BEAN_ID_518" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_518"/>
+    </bean>
+    <bean id="BEAN_ID_519" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_519"/>
+    </bean>
+    <bean id="BEAN_ID_520" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_520"/>
+    </bean>
+    <bean id="BEAN_ID_521" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_521"/>
+    </bean>
+    <bean id="BEAN_ID_522" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_522"/>
+    </bean>
+    <bean id="BEAN_ID_523" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_523"/>
+    </bean>
+    <bean id="BEAN_ID_524" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_524"/>
+    </bean>
+    <bean id="BEAN_ID_525" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_525"/>
+    </bean>
+    <bean id="BEAN_ID_526" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_526"/>
+    </bean>
+    <bean id="BEAN_ID_527" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_527"/>
+    </bean>
+    <bean id="BEAN_ID_528" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_528"/>
+    </bean>
+    <bean id="BEAN_ID_529" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_529"/>
+    </bean>
+    <bean id="BEAN_ID_530" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_530"/>
+    </bean>
+    <bean id="BEAN_ID_531" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_531"/>
+    </bean>
+    <bean id="BEAN_ID_532" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_532"/>
+    </bean>
+    <bean id="BEAN_ID_533" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_533"/>
+    </bean>
+    <bean id="BEAN_ID_534" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_534"/>
+    </bean>
+    <bean id="BEAN_ID_535" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_535"/>
+    </bean>
+    <bean id="BEAN_ID_536" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_536"/>
+    </bean>
+    <bean id="BEAN_ID_537" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_537"/>
+    </bean>
+    <bean id="BEAN_ID_538" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_538"/>
+    </bean>
+    <bean id="BEAN_ID_539" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_539"/>
+    </bean>
+    <bean id="BEAN_ID_540" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_540"/>
+    </bean>
+    <bean id="BEAN_ID_541" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_541"/>
+    </bean>
+    <bean id="BEAN_ID_542" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_542"/>
+    </bean>
+    <bean id="BEAN_ID_543" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_543"/>
+    </bean>
+    <bean id="BEAN_ID_544" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_544"/>
+    </bean>
+    <bean id="BEAN_ID_545" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_545"/>
+    </bean>
+    <bean id="BEAN_ID_546" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_546"/>
+    </bean>
+    <bean id="BEAN_ID_547" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_547"/>
+    </bean>
+    <bean id="BEAN_ID_548" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_548"/>
+    </bean>
+    <bean id="BEAN_ID_549" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_549"/>
+    </bean>
+    <bean id="BEAN_ID_550" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_550"/>
+    </bean>
+    <bean id="BEAN_ID_551" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_551"/>
+    </bean>
+    <bean id="BEAN_ID_552" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_552"/>
+    </bean>
+    <bean id="BEAN_ID_553" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_553"/>
+    </bean>
+    <bean id="BEAN_ID_554" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_554"/>
+    </bean>
+    <bean id="BEAN_ID_555" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_555"/>
+    </bean>
+    <bean id="BEAN_ID_556" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_556"/>
+    </bean>
+    <bean id="BEAN_ID_557" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_557"/>
+    </bean>
+    <bean id="BEAN_ID_558" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_558"/>
+    </bean>
+    <bean id="BEAN_ID_559" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_559"/>
+    </bean>
+    <bean id="BEAN_ID_560" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_560"/>
+    </bean>
+    <bean id="BEAN_ID_561" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_561"/>
+    </bean>
+    <bean id="BEAN_ID_562" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_562"/>
+    </bean>
+    <bean id="BEAN_ID_563" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_563"/>
+    </bean>
+    <bean id="BEAN_ID_564" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_564"/>
+    </bean>
+    <bean id="BEAN_ID_565" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_565"/>
+    </bean>
+    <bean id="BEAN_ID_566" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_566"/>
+    </bean>
+    <bean id="BEAN_ID_567" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_567"/>
+    </bean>
+    <bean id="BEAN_ID_568" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_568"/>
+    </bean>
+    <bean id="BEAN_ID_569" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_569"/>
+    </bean>
+    <bean id="BEAN_ID_570" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_570"/>
+    </bean>
+    <bean id="BEAN_ID_571" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_571"/>
+    </bean>
+    <bean id="BEAN_ID_572" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_572"/>
+    </bean>
+    <bean id="BEAN_ID_573" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_573"/>
+    </bean>
+    <bean id="BEAN_ID_574" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_574"/>
+    </bean>
+    <bean id="BEAN_ID_575" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_575"/>
+    </bean>
+    <bean id="BEAN_ID_576" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_576"/>
+    </bean>
+    <bean id="BEAN_ID_577" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_577"/>
+    </bean>
+    <bean id="BEAN_ID_578" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_578"/>
+    </bean>
+    <bean id="BEAN_ID_579" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_579"/>
+    </bean>
+    <bean id="BEAN_ID_580" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_580"/>
+    </bean>
+    <bean id="BEAN_ID_581" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_581"/>
+    </bean>
+    <bean id="BEAN_ID_582" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_582"/>
+    </bean>
+    <bean id="BEAN_ID_583" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_583"/>
+    </bean>
+    <bean id="BEAN_ID_584" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_584"/>
+    </bean>
+    <bean id="BEAN_ID_585" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_585"/>
+    </bean>
+    <bean id="BEAN_ID_586" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_586"/>
+    </bean>
+    <bean id="BEAN_ID_587" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_587"/>
+    </bean>
+    <bean id="BEAN_ID_588" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_588"/>
+    </bean>
+    <bean id="BEAN_ID_589" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_589"/>
+    </bean>
+    <bean id="BEAN_ID_590" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_590"/>
+    </bean>
+    <bean id="BEAN_ID_591" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_591"/>
+    </bean>
+    <bean id="BEAN_ID_592" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_592"/>
+    </bean>
+    <bean id="BEAN_ID_593" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_593"/>
+    </bean>
+    <bean id="BEAN_ID_594" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_594"/>
+    </bean>
+    <bean id="BEAN_ID_595" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_595"/>
+    </bean>
+    <bean id="BEAN_ID_596" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_596"/>
+    </bean>
+    <bean id="BEAN_ID_597" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_597"/>
+    </bean>
+    <bean id="BEAN_ID_598" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_598"/>
+    </bean>
+    <bean id="BEAN_ID_599" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_599"/>
+    </bean>
+    <bean id="BEAN_ID_600" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_600"/>
+    </bean>
+    <bean id="BEAN_ID_601" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_601"/>
+    </bean>
+    <bean id="BEAN_ID_602" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_602"/>
+    </bean>
+    <bean id="BEAN_ID_603" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_603"/>
+    </bean>
+    <bean id="BEAN_ID_604" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_604"/>
+    </bean>
+    <bean id="BEAN_ID_605" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_605"/>
+    </bean>
+    <bean id="BEAN_ID_606" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_606"/>
+    </bean>
+    <bean id="BEAN_ID_607" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_607"/>
+    </bean>
+    <bean id="BEAN_ID_608" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_608"/>
+    </bean>
+    <bean id="BEAN_ID_609" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_609"/>
+    </bean>
+    <bean id="BEAN_ID_610" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_610"/>
+    </bean>
+    <bean id="BEAN_ID_611" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_611"/>
+    </bean>
+    <bean id="BEAN_ID_612" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_612"/>
+    </bean>
+    <bean id="BEAN_ID_613" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_613"/>
+    </bean>
+    <bean id="BEAN_ID_614" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_614"/>
+    </bean>
+    <bean id="BEAN_ID_615" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_615"/>
+    </bean>
+    <bean id="BEAN_ID_616" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_616"/>
+    </bean>
+    <bean id="BEAN_ID_617" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_617"/>
+    </bean>
+    <bean id="BEAN_ID_618" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_618"/>
+    </bean>
+    <bean id="BEAN_ID_619" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_619"/>
+    </bean>
+    <bean id="BEAN_ID_620" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_620"/>
+    </bean>
+    <bean id="BEAN_ID_621" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_621"/>
+    </bean>
+    <bean id="BEAN_ID_622" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_622"/>
+    </bean>
+    <bean id="BEAN_ID_623" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_623"/>
+    </bean>
+    <bean id="BEAN_ID_624" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_624"/>
+    </bean>
+    <bean id="BEAN_ID_625" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_625"/>
+    </bean>
+    <bean id="BEAN_ID_626" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_626"/>
+    </bean>
+    <bean id="BEAN_ID_627" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_627"/>
+    </bean>
+    <bean id="BEAN_ID_628" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_628"/>
+    </bean>
+    <bean id="BEAN_ID_629" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_629"/>
+    </bean>
+    <bean id="BEAN_ID_630" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_630"/>
+    </bean>
+    <bean id="BEAN_ID_631" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_631"/>
+    </bean>
+    <bean id="BEAN_ID_632" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_632"/>
+    </bean>
+    <bean id="BEAN_ID_633" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_633"/>
+    </bean>
+    <bean id="BEAN_ID_634" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_634"/>
+    </bean>
+    <bean id="BEAN_ID_635" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_635"/>
+    </bean>
+    <bean id="BEAN_ID_636" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_636"/>
+    </bean>
+    <bean id="BEAN_ID_637" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_637"/>
+    </bean>
+    <bean id="BEAN_ID_638" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_638"/>
+    </bean>
+    <bean id="BEAN_ID_639" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_639"/>
+    </bean>
+    <bean id="BEAN_ID_640" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_640"/>
+    </bean>
+    <bean id="BEAN_ID_641" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_641"/>
+    </bean>
+    <bean id="BEAN_ID_642" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_642"/>
+    </bean>
+    <bean id="BEAN_ID_643" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_643"/>
+    </bean>
+    <bean id="BEAN_ID_644" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_644"/>
+    </bean>
+    <bean id="BEAN_ID_645" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_645"/>
+    </bean>
+    <bean id="BEAN_ID_646" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_646"/>
+    </bean>
+    <bean id="BEAN_ID_647" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_647"/>
+    </bean>
+    <bean id="BEAN_ID_648" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_648"/>
+    </bean>
+    <bean id="BEAN_ID_649" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_649"/>
+    </bean>
+    <bean id="BEAN_ID_650" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_650"/>
+    </bean>
+    <bean id="BEAN_ID_651" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_651"/>
+    </bean>
+    <bean id="BEAN_ID_652" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_652"/>
+    </bean>
+    <bean id="BEAN_ID_653" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_653"/>
+    </bean>
+    <bean id="BEAN_ID_654" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_654"/>
+    </bean>
+    <bean id="BEAN_ID_655" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_655"/>
+    </bean>
+    <bean id="BEAN_ID_656" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_656"/>
+    </bean>
+    <bean id="BEAN_ID_657" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_657"/>
+    </bean>
+    <bean id="BEAN_ID_658" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_658"/>
+    </bean>
+    <bean id="BEAN_ID_659" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_659"/>
+    </bean>
+    <bean id="BEAN_ID_660" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_660"/>
+    </bean>
+    <bean id="BEAN_ID_661" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_661"/>
+    </bean>
+    <bean id="BEAN_ID_662" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_662"/>
+    </bean>
+    <bean id="BEAN_ID_663" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_663"/>
+    </bean>
+    <bean id="BEAN_ID_664" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_664"/>
+    </bean>
+    <bean id="BEAN_ID_665" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_665"/>
+    </bean>
+    <bean id="BEAN_ID_666" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_666"/>
+    </bean>
+    <bean id="BEAN_ID_667" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_667"/>
+    </bean>
+    <bean id="BEAN_ID_668" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_668"/>
+    </bean>
+    <bean id="BEAN_ID_669" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_669"/>
+    </bean>
+    <bean id="BEAN_ID_670" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_670"/>
+    </bean>
+    <bean id="BEAN_ID_671" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_671"/>
+    </bean>
+    <bean id="BEAN_ID_672" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_672"/>
+    </bean>
+    <bean id="BEAN_ID_673" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_673"/>
+    </bean>
+    <bean id="BEAN_ID_674" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_674"/>
+    </bean>
+    <bean id="BEAN_ID_675" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_675"/>
+    </bean>
+    <bean id="BEAN_ID_676" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_676"/>
+    </bean>
+    <bean id="BEAN_ID_677" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_677"/>
+    </bean>
+    <bean id="BEAN_ID_678" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_678"/>
+    </bean>
+    <bean id="BEAN_ID_679" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_679"/>
+    </bean>
+    <bean id="BEAN_ID_680" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_680"/>
+    </bean>
+    <bean id="BEAN_ID_681" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_681"/>
+    </bean>
+    <bean id="BEAN_ID_682" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_682"/>
+    </bean>
+    <bean id="BEAN_ID_683" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_683"/>
+    </bean>
+    <bean id="BEAN_ID_684" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_684"/>
+    </bean>
+    <bean id="BEAN_ID_685" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_685"/>
+    </bean>
+    <bean id="BEAN_ID_686" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_686"/>
+    </bean>
+    <bean id="BEAN_ID_687" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_687"/>
+    </bean>
+    <bean id="BEAN_ID_688" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_688"/>
+    </bean>
+    <bean id="BEAN_ID_689" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_689"/>
+    </bean>
+    <bean id="BEAN_ID_690" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_690"/>
+    </bean>
+    <bean id="BEAN_ID_691" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_691"/>
+    </bean>
+    <bean id="BEAN_ID_692" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_692"/>
+    </bean>
+    <bean id="BEAN_ID_693" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_693"/>
+    </bean>
+    <bean id="BEAN_ID_694" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_694"/>
+    </bean>
+    <bean id="BEAN_ID_695" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_695"/>
+    </bean>
+    <bean id="BEAN_ID_696" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_696"/>
+    </bean>
+    <bean id="BEAN_ID_697" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_697"/>
+    </bean>
+    <bean id="BEAN_ID_698" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_698"/>
+    </bean>
+    <bean id="BEAN_ID_699" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_699"/>
+    </bean>
+    <bean id="BEAN_ID_700" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_700"/>
+    </bean>
+    <bean id="BEAN_ID_701" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_701"/>
+    </bean>
+    <bean id="BEAN_ID_702" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_702"/>
+    </bean>
+    <bean id="BEAN_ID_703" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_703"/>
+    </bean>
+    <bean id="BEAN_ID_704" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_704"/>
+    </bean>
+    <bean id="BEAN_ID_705" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_705"/>
+    </bean>
+    <bean id="BEAN_ID_706" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_706"/>
+    </bean>
+    <bean id="BEAN_ID_707" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_707"/>
+    </bean>
+    <bean id="BEAN_ID_708" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_708"/>
+    </bean>
+    <bean id="BEAN_ID_709" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_709"/>
+    </bean>
+    <bean id="BEAN_ID_710" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_710"/>
+    </bean>
+    <bean id="BEAN_ID_711" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_711"/>
+    </bean>
+    <bean id="BEAN_ID_712" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_712"/>
+    </bean>
+    <bean id="BEAN_ID_713" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_713"/>
+    </bean>
+    <bean id="BEAN_ID_714" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_714"/>
+    </bean>
+    <bean id="BEAN_ID_715" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_715"/>
+    </bean>
+    <bean id="BEAN_ID_716" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_716"/>
+    </bean>
+    <bean id="BEAN_ID_717" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_717"/>
+    </bean>
+    <bean id="BEAN_ID_718" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_718"/>
+    </bean>
+    <bean id="BEAN_ID_719" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_719"/>
+    </bean>
+    <bean id="BEAN_ID_720" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_720"/>
+    </bean>
+    <bean id="BEAN_ID_721" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_721"/>
+    </bean>
+    <bean id="BEAN_ID_722" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_722"/>
+    </bean>
+    <bean id="BEAN_ID_723" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_723"/>
+    </bean>
+    <bean id="BEAN_ID_724" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_724"/>
+    </bean>
+    <bean id="BEAN_ID_725" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_725"/>
+    </bean>
+    <bean id="BEAN_ID_726" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_726"/>
+    </bean>
+    <bean id="BEAN_ID_727" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_727"/>
+    </bean>
+    <bean id="BEAN_ID_728" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_728"/>
+    </bean>
+    <bean id="BEAN_ID_729" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_729"/>
+    </bean>
+    <bean id="BEAN_ID_730" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_730"/>
+    </bean>
+    <bean id="BEAN_ID_731" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_731"/>
+    </bean>
+    <bean id="BEAN_ID_732" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_732"/>
+    </bean>
+    <bean id="BEAN_ID_733" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_733"/>
+    </bean>
+    <bean id="BEAN_ID_734" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_734"/>
+    </bean>
+    <bean id="BEAN_ID_735" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_735"/>
+    </bean>
+    <bean id="BEAN_ID_736" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_736"/>
+    </bean>
+    <bean id="BEAN_ID_737" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_737"/>
+    </bean>
+    <bean id="BEAN_ID_738" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_738"/>
+    </bean>
+    <bean id="BEAN_ID_739" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_739"/>
+    </bean>
+    <bean id="BEAN_ID_740" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_740"/>
+    </bean>
+    <bean id="BEAN_ID_741" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_741"/>
+    </bean>
+    <bean id="BEAN_ID_742" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_742"/>
+    </bean>
+    <bean id="BEAN_ID_743" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_743"/>
+    </bean>
+    <bean id="BEAN_ID_744" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_744"/>
+    </bean>
+    <bean id="BEAN_ID_745" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_745"/>
+    </bean>
+    <bean id="BEAN_ID_746" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_746"/>
+    </bean>
+    <bean id="BEAN_ID_747" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_747"/>
+    </bean>
+    <bean id="BEAN_ID_748" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_748"/>
+    </bean>
+    <bean id="BEAN_ID_749" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_749"/>
+    </bean>
+    <bean id="BEAN_ID_750" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_750"/>
+    </bean>
+    <bean id="BEAN_ID_751" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_751"/>
+    </bean>
+    <bean id="BEAN_ID_752" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_752"/>
+    </bean>
+    <bean id="BEAN_ID_753" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_753"/>
+    </bean>
+    <bean id="BEAN_ID_754" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_754"/>
+    </bean>
+    <bean id="BEAN_ID_755" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_755"/>
+    </bean>
+    <bean id="BEAN_ID_756" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_756"/>
+    </bean>
+    <bean id="BEAN_ID_757" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_757"/>
+    </bean>
+    <bean id="BEAN_ID_758" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_758"/>
+    </bean>
+    <bean id="BEAN_ID_759" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_759"/>
+    </bean>
+    <bean id="BEAN_ID_760" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_760"/>
+    </bean>
+    <bean id="BEAN_ID_761" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_761"/>
+    </bean>
+    <bean id="BEAN_ID_762" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_762"/>
+    </bean>
+    <bean id="BEAN_ID_763" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_763"/>
+    </bean>
+    <bean id="BEAN_ID_764" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_764"/>
+    </bean>
+    <bean id="BEAN_ID_765" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_765"/>
+    </bean>
+    <bean id="BEAN_ID_766" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_766"/>
+    </bean>
+    <bean id="BEAN_ID_767" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_767"/>
+    </bean>
+    <bean id="BEAN_ID_768" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_768"/>
+    </bean>
+    <bean id="BEAN_ID_769" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_769"/>
+    </bean>
+    <bean id="BEAN_ID_770" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_770"/>
+    </bean>
+    <bean id="BEAN_ID_771" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_771"/>
+    </bean>
+    <bean id="BEAN_ID_772" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_772"/>
+    </bean>
+    <bean id="BEAN_ID_773" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_773"/>
+    </bean>
+    <bean id="BEAN_ID_774" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_774"/>
+    </bean>
+    <bean id="BEAN_ID_775" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_775"/>
+    </bean>
+    <bean id="BEAN_ID_776" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_776"/>
+    </bean>
+    <bean id="BEAN_ID_777" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_777"/>
+    </bean>
+    <bean id="BEAN_ID_778" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_778"/>
+    </bean>
+    <bean id="BEAN_ID_779" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_779"/>
+    </bean>
+    <bean id="BEAN_ID_780" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_780"/>
+    </bean>
+    <bean id="BEAN_ID_781" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_781"/>
+    </bean>
+    <bean id="BEAN_ID_782" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_782"/>
+    </bean>
+    <bean id="BEAN_ID_783" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_783"/>
+    </bean>
+    <bean id="BEAN_ID_784" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_784"/>
+    </bean>
+    <bean id="BEAN_ID_785" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_785"/>
+    </bean>
+    <bean id="BEAN_ID_786" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_786"/>
+    </bean>
+    <bean id="BEAN_ID_787" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_787"/>
+    </bean>
+    <bean id="BEAN_ID_788" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_788"/>
+    </bean>
+    <bean id="BEAN_ID_789" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_789"/>
+    </bean>
+    <bean id="BEAN_ID_790" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_790"/>
+    </bean>
+    <bean id="BEAN_ID_791" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_791"/>
+    </bean>
+    <bean id="BEAN_ID_792" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_792"/>
+    </bean>
+    <bean id="BEAN_ID_793" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_793"/>
+    </bean>
+    <bean id="BEAN_ID_794" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_794"/>
+    </bean>
+    <bean id="BEAN_ID_795" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_795"/>
+    </bean>
+    <bean id="BEAN_ID_796" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_796"/>
+    </bean>
+    <bean id="BEAN_ID_797" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_797"/>
+    </bean>
+    <bean id="BEAN_ID_798" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_798"/>
+    </bean>
+    <bean id="BEAN_ID_799" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_799"/>
+    </bean>
+    <bean id="BEAN_ID_800" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_800"/>
+    </bean>
+    <bean id="BEAN_ID_801" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_801"/>
+    </bean>
+    <bean id="BEAN_ID_802" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_802"/>
+    </bean>
+    <bean id="BEAN_ID_803" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_803"/>
+    </bean>
+    <bean id="BEAN_ID_804" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_804"/>
+    </bean>
+    <bean id="BEAN_ID_805" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_805"/>
+    </bean>
+    <bean id="BEAN_ID_806" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_806"/>
+    </bean>
+    <bean id="BEAN_ID_807" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_807"/>
+    </bean>
+    <bean id="BEAN_ID_808" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_808"/>
+    </bean>
+    <bean id="BEAN_ID_809" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_809"/>
+    </bean>
+    <bean id="BEAN_ID_810" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_810"/>
+    </bean>
+    <bean id="BEAN_ID_811" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_811"/>
+    </bean>
+    <bean id="BEAN_ID_812" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_812"/>
+    </bean>
+    <bean id="BEAN_ID_813" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_813"/>
+    </bean>
+    <bean id="BEAN_ID_814" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_814"/>
+    </bean>
+    <bean id="BEAN_ID_815" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_815"/>
+    </bean>
+    <bean id="BEAN_ID_816" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_816"/>
+    </bean>
+    <bean id="BEAN_ID_817" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_817"/>
+    </bean>
+    <bean id="BEAN_ID_818" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_818"/>
+    </bean>
+    <bean id="BEAN_ID_819" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_819"/>
+    </bean>
+    <bean id="BEAN_ID_820" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_820"/>
+    </bean>
+    <bean id="BEAN_ID_821" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_821"/>
+    </bean>
+    <bean id="BEAN_ID_822" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_822"/>
+    </bean>
+    <bean id="BEAN_ID_823" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_823"/>
+    </bean>
+    <bean id="BEAN_ID_824" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_824"/>
+    </bean>
+    <bean id="BEAN_ID_825" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_825"/>
+    </bean>
+    <bean id="BEAN_ID_826" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_826"/>
+    </bean>
+    <bean id="BEAN_ID_827" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_827"/>
+    </bean>
+    <bean id="BEAN_ID_828" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_828"/>
+    </bean>
+    <bean id="BEAN_ID_829" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_829"/>
+    </bean>
+    <bean id="BEAN_ID_830" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_830"/>
+    </bean>
+    <bean id="BEAN_ID_831" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_831"/>
+    </bean>
+    <bean id="BEAN_ID_832" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_832"/>
+    </bean>
+    <bean id="BEAN_ID_833" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_833"/>
+    </bean>
+    <bean id="BEAN_ID_834" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_834"/>
+    </bean>
+    <bean id="BEAN_ID_835" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_835"/>
+    </bean>
+    <bean id="BEAN_ID_836" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_836"/>
+    </bean>
+    <bean id="BEAN_ID_837" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_837"/>
+    </bean>
+    <bean id="BEAN_ID_838" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_838"/>
+    </bean>
+    <bean id="BEAN_ID_839" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_839"/>
+    </bean>
+    <bean id="BEAN_ID_840" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_840"/>
+    </bean>
+    <bean id="BEAN_ID_841" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_841"/>
+    </bean>
+    <bean id="BEAN_ID_842" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_842"/>
+    </bean>
+    <bean id="BEAN_ID_843" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_843"/>
+    </bean>
+    <bean id="BEAN_ID_844" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_844"/>
+    </bean>
+    <bean id="BEAN_ID_845" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_845"/>
+    </bean>
+    <bean id="BEAN_ID_846" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_846"/>
+    </bean>
+    <bean id="BEAN_ID_847" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_847"/>
+    </bean>
+    <bean id="BEAN_ID_848" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_848"/>
+    </bean>
+    <bean id="BEAN_ID_849" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_849"/>
+    </bean>
+    <bean id="BEAN_ID_850" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_850"/>
+    </bean>
+    <bean id="BEAN_ID_851" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_851"/>
+    </bean>
+    <bean id="BEAN_ID_852" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_852"/>
+    </bean>
+    <bean id="BEAN_ID_853" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_853"/>
+    </bean>
+    <bean id="BEAN_ID_854" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_854"/>
+    </bean>
+    <bean id="BEAN_ID_855" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_855"/>
+    </bean>
+    <bean id="BEAN_ID_856" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_856"/>
+    </bean>
+    <bean id="BEAN_ID_857" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_857"/>
+    </bean>
+    <bean id="BEAN_ID_858" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_858"/>
+    </bean>
+    <bean id="BEAN_ID_859" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_859"/>
+    </bean>
+    <bean id="BEAN_ID_860" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_860"/>
+    </bean>
+    <bean id="BEAN_ID_861" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_861"/>
+    </bean>
+    <bean id="BEAN_ID_862" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_862"/>
+    </bean>
+    <bean id="BEAN_ID_863" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_863"/>
+    </bean>
+    <bean id="BEAN_ID_864" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_864"/>
+    </bean>
+    <bean id="BEAN_ID_865" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_865"/>
+    </bean>
+    <bean id="BEAN_ID_866" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_866"/>
+    </bean>
+    <bean id="BEAN_ID_867" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_867"/>
+    </bean>
+    <bean id="BEAN_ID_868" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_868"/>
+    </bean>
+    <bean id="BEAN_ID_869" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_869"/>
+    </bean>
+    <bean id="BEAN_ID_870" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_870"/>
+    </bean>
+    <bean id="BEAN_ID_871" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_871"/>
+    </bean>
+    <bean id="BEAN_ID_872" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_872"/>
+    </bean>
+    <bean id="BEAN_ID_873" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_873"/>
+    </bean>
+    <bean id="BEAN_ID_874" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_874"/>
+    </bean>
+    <bean id="BEAN_ID_875" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_875"/>
+    </bean>
+    <bean id="BEAN_ID_876" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_876"/>
+    </bean>
+    <bean id="BEAN_ID_877" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_877"/>
+    </bean>
+    <bean id="BEAN_ID_878" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_878"/>
+    </bean>
+    <bean id="BEAN_ID_879" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_879"/>
+    </bean>
+    <bean id="BEAN_ID_880" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_880"/>
+    </bean>
+    <bean id="BEAN_ID_881" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_881"/>
+    </bean>
+    <bean id="BEAN_ID_882" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_882"/>
+    </bean>
+    <bean id="BEAN_ID_883" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_883"/>
+    </bean>
+    <bean id="BEAN_ID_884" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_884"/>
+    </bean>
+    <bean id="BEAN_ID_885" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_885"/>
+    </bean>
+    <bean id="BEAN_ID_886" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_886"/>
+    </bean>
+    <bean id="BEAN_ID_887" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_887"/>
+    </bean>
+    <bean id="BEAN_ID_888" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_888"/>
+    </bean>
+    <bean id="BEAN_ID_889" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_889"/>
+    </bean>
+    <bean id="BEAN_ID_890" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_890"/>
+    </bean>
+    <bean id="BEAN_ID_891" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_891"/>
+    </bean>
+    <bean id="BEAN_ID_892" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_892"/>
+    </bean>
+    <bean id="BEAN_ID_893" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_893"/>
+    </bean>
+    <bean id="BEAN_ID_894" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_894"/>
+    </bean>
+    <bean id="BEAN_ID_895" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_895"/>
+    </bean>
+    <bean id="BEAN_ID_896" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_896"/>
+    </bean>
+    <bean id="BEAN_ID_897" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_897"/>
+    </bean>
+    <bean id="BEAN_ID_898" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_898"/>
+    </bean>
+    <bean id="BEAN_ID_899" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_899"/>
+    </bean>
+    <bean id="BEAN_ID_900" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_900"/>
+    </bean>
+    <bean id="BEAN_ID_901" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_901"/>
+    </bean>
+    <bean id="BEAN_ID_902" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_902"/>
+    </bean>
+    <bean id="BEAN_ID_903" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_903"/>
+    </bean>
+    <bean id="BEAN_ID_904" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_904"/>
+    </bean>
+    <bean id="BEAN_ID_905" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_905"/>
+    </bean>
+    <bean id="BEAN_ID_906" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_906"/>
+    </bean>
+    <bean id="BEAN_ID_907" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_907"/>
+    </bean>
+    <bean id="BEAN_ID_908" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_908"/>
+    </bean>
+    <bean id="BEAN_ID_909" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_909"/>
+    </bean>
+    <bean id="BEAN_ID_910" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_910"/>
+    </bean>
+    <bean id="BEAN_ID_911" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_911"/>
+    </bean>
+    <bean id="BEAN_ID_912" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_912"/>
+    </bean>
+    <bean id="BEAN_ID_913" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_913"/>
+    </bean>
+    <bean id="BEAN_ID_914" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_914"/>
+    </bean>
+    <bean id="BEAN_ID_915" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_915"/>
+    </bean>
+    <bean id="BEAN_ID_916" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_916"/>
+    </bean>
+    <bean id="BEAN_ID_917" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_917"/>
+    </bean>
+    <bean id="BEAN_ID_918" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_918"/>
+    </bean>
+    <bean id="BEAN_ID_919" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_919"/>
+    </bean>
+    <bean id="BEAN_ID_920" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_920"/>
+    </bean>
+    <bean id="BEAN_ID_921" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_921"/>
+    </bean>
+    <bean id="BEAN_ID_922" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_922"/>
+    </bean>
+    <bean id="BEAN_ID_923" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_923"/>
+    </bean>
+    <bean id="BEAN_ID_924" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_924"/>
+    </bean>
+    <bean id="BEAN_ID_925" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_925"/>
+    </bean>
+    <bean id="BEAN_ID_926" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_926"/>
+    </bean>
+    <bean id="BEAN_ID_927" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_927"/>
+    </bean>
+    <bean id="BEAN_ID_928" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_928"/>
+    </bean>
+    <bean id="BEAN_ID_929" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_929"/>
+    </bean>
+    <bean id="BEAN_ID_930" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_930"/>
+    </bean>
+    <bean id="BEAN_ID_931" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_931"/>
+    </bean>
+    <bean id="BEAN_ID_932" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_932"/>
+    </bean>
+    <bean id="BEAN_ID_933" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_933"/>
+    </bean>
+    <bean id="BEAN_ID_934" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_934"/>
+    </bean>
+    <bean id="BEAN_ID_935" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_935"/>
+    </bean>
+    <bean id="BEAN_ID_936" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_936"/>
+    </bean>
+    <bean id="BEAN_ID_937" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_937"/>
+    </bean>
+    <bean id="BEAN_ID_938" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_938"/>
+    </bean>
+    <bean id="BEAN_ID_939" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_939"/>
+    </bean>
+    <bean id="BEAN_ID_940" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_940"/>
+    </bean>
+    <bean id="BEAN_ID_941" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_941"/>
+    </bean>
+    <bean id="BEAN_ID_942" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_942"/>
+    </bean>
+    <bean id="BEAN_ID_943" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_943"/>
+    </bean>
+    <bean id="BEAN_ID_944" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_944"/>
+    </bean>
+    <bean id="BEAN_ID_945" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_945"/>
+    </bean>
+    <bean id="BEAN_ID_946" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_946"/>
+    </bean>
+    <bean id="BEAN_ID_947" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_947"/>
+    </bean>
+    <bean id="BEAN_ID_948" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_948"/>
+    </bean>
+    <bean id="BEAN_ID_949" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_949"/>
+    </bean>
+    <bean id="BEAN_ID_950" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_950"/>
+    </bean>
+    <bean id="BEAN_ID_951" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_951"/>
+    </bean>
+    <bean id="BEAN_ID_952" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_952"/>
+    </bean>
+    <bean id="BEAN_ID_953" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_953"/>
+    </bean>
+    <bean id="BEAN_ID_954" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_954"/>
+    </bean>
+    <bean id="BEAN_ID_955" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_955"/>
+    </bean>
+    <bean id="BEAN_ID_956" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_956"/>
+    </bean>
+    <bean id="BEAN_ID_957" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_957"/>
+    </bean>
+    <bean id="BEAN_ID_958" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_958"/>
+    </bean>
+    <bean id="BEAN_ID_959" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_959"/>
+    </bean>
+    <bean id="BEAN_ID_960" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_960"/>
+    </bean>
+    <bean id="BEAN_ID_961" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_961"/>
+    </bean>
+    <bean id="BEAN_ID_962" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_962"/>
+    </bean>
+    <bean id="BEAN_ID_963" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_963"/>
+    </bean>
+    <bean id="BEAN_ID_964" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_964"/>
+    </bean>
+    <bean id="BEAN_ID_965" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_965"/>
+    </bean>
+    <bean id="BEAN_ID_966" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_966"/>
+    </bean>
+    <bean id="BEAN_ID_967" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_967"/>
+    </bean>
+    <bean id="BEAN_ID_968" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_968"/>
+    </bean>
+    <bean id="BEAN_ID_969" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_969"/>
+    </bean>
+    <bean id="BEAN_ID_970" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_970"/>
+    </bean>
+    <bean id="BEAN_ID_971" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_971"/>
+    </bean>
+    <bean id="BEAN_ID_972" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_972"/>
+    </bean>
+    <bean id="BEAN_ID_973" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_973"/>
+    </bean>
+    <bean id="BEAN_ID_974" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_974"/>
+    </bean>
+    <bean id="BEAN_ID_975" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_975"/>
+    </bean>
+    <bean id="BEAN_ID_976" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_976"/>
+    </bean>
+    <bean id="BEAN_ID_977" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_977"/>
+    </bean>
+    <bean id="BEAN_ID_978" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_978"/>
+    </bean>
+    <bean id="BEAN_ID_979" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_979"/>
+    </bean>
+    <bean id="BEAN_ID_980" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_980"/>
+    </bean>
+    <bean id="BEAN_ID_981" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_981"/>
+    </bean>
+    <bean id="BEAN_ID_982" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_982"/>
+    </bean>
+    <bean id="BEAN_ID_983" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_983"/>
+    </bean>
+    <bean id="BEAN_ID_984" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_984"/>
+    </bean>
+    <bean id="BEAN_ID_985" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_985"/>
+    </bean>
+    <bean id="BEAN_ID_986" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_986"/>
+    </bean>
+    <bean id="BEAN_ID_987" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_987"/>
+    </bean>
+    <bean id="BEAN_ID_988" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_988"/>
+    </bean>
+    <bean id="BEAN_ID_989" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_989"/>
+    </bean>
+    <bean id="BEAN_ID_990" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_990"/>
+    </bean>
+    <bean id="BEAN_ID_991" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_991"/>
+    </bean>
+    <bean id="BEAN_ID_992" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_992"/>
+    </bean>
+    <bean id="BEAN_ID_993" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_993"/>
+    </bean>
+    <bean id="BEAN_ID_994" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_994"/>
+    </bean>
+    <bean id="BEAN_ID_995" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_995"/>
+    </bean>
+    <bean id="BEAN_ID_996" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_996"/>
+    </bean>
+    <bean id="BEAN_ID_997" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_997"/>
+    </bean>
+    <bean id="BEAN_ID_998" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_998"/>
+    </bean>
+    <bean id="BEAN_ID_999" class="context_benchmark.ValueObject">
+            <constructor-arg name="value" value="VALUE_999"/>
+    </bean>
+</beans>

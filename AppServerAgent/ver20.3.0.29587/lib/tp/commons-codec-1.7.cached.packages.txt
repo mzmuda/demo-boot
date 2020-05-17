@@ -1,7 +1,0 @@
-1584820381427
-org.apache.commons.codec.language.bm
-org.apache.commons.codec.net
-org.apache.commons.codec.binary
-org.apache.commons.codec
-org.apache.commons.codec.language
-org.apache.commons.codec.digest

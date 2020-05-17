@@ -1,4 +1,0 @@
-1584820381689
-org.slf4j
-org.slf4j.spi
-org.slf4j.helpers

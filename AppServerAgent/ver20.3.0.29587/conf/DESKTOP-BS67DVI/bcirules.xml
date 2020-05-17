@@ -1,6 +1,0 @@
-<multiple-inheritance-rules>
-    <instrumentation-properties>
-        <property name="dynamic-servlet-classes" value="org.springframework.web.servlet.FrameworkServlet,org.h2.server.web.WebServlet"/>
-        <property name="bci-fixer-other-classes" value="org.apache.catalina.connector.RequestFacade,org.apache.catalina.connector.Request,java.util.concurrent.ForkJoinTask,com.intellij.rt.execution.application.AppMainV2$1,org.springframework.jdbc.datasource.AbstractDriverBasedDataSource,java.util.concurrent.ThreadPoolExecutor$Worker,org.springframework.web.servlet.FrameworkServlet,org.h2.server.web.WebServlet,java.util.concurrent.Executors$RunnableAdapter,org.apache.catalina.connector.ResponseFacade,jdk.internal.misc.InnocuousThread,org.apache.catalina.connector.Response,org.springframework.jdbc.datasource.embedded.EmbeddedDatabaseFactory$EmbeddedDataSourceProxy,org.springframework.web.servlet.DispatcherServlet,org.apache.catalina.core.AsyncContextImpl,jdk.management.jfr.SettingDescriptorInfo$1,jdk.internal.ref.CleanerImpl,java.util.concurrent.CompletableFuture$Completion,javax.servlet.ServletRequestWrapper"/>
-    </instrumentation-properties>
-</multiple-inheritance-rules>

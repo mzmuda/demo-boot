@@ -1,2 +1,0 @@
-1584820380736
-org.apache.logging.log4j.jcl
